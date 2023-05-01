@@ -1,17 +1,17 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "最初のブログ投稿"
 pubDate: 2023-05-01
 description: "これはAstroに投稿する最初の記事です。"
 author: "Ryosuke Yamashita"
 image:
-  url: "https://docs.astro.build/assets/sull-logo-light.png"
+  url: "https://docs.astro.build/assets/full-logo-light.png"
   alt: "The full Astro logo."
 tags: ["astro", "blogging", "learning in public"]
 ---
 
 # My First Blog Post
 
-投稿日: 2023/05/01
 ようこそ。私は現在 Astro による静的サイトジェネレーターを使ったブログを構築してます。
 
 ## なぜ”Astro”なのか
